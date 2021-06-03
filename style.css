@@ -1,0 +1,9 @@
+p{
+    font-size: 25px;
+    font-weight: bold;
+}
+
+body{
+    background: rgb(0,250,209);
+    background: linear-gradient(90deg, rgba(0,250,209,1) 0%, rgba(35,255,45,1) 35%, rgba(232,255,0,1) 100%);
+}
